@@ -15,7 +15,6 @@ Innomath is an application designed to help visually and hearing impaired primar
 - Flow
 - Retrofit
 - Room
-- DataStore
 
 
 ## 📸 Screens
